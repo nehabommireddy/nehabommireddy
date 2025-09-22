@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Neha Bommireddy!
 
-I'm a sophomore at Cornell University studying Computer Science, passionate about building impactful software and using technology to solve real-world problems. I'm especially interested in creating inclusive, accessible tools and am currently exploring open source projects and learning how to work with APIs to contribute to collaborative tech communities.
+I'm studying Computer Science at Cornell University and I'm passionate about building impactful software and using technology to solve real-world problems. I'm especially interested in creating inclusive, accessible tools and am currently exploring open source projects and learning how to work with APIs to contribute to collaborative tech communities.
 
 ---
 
