@@ -6,7 +6,7 @@ I'm studying Computer Science at Cornell University and I'm passionate about bui
 
 ## Technical Skills
 
-- **Languages:** Python, Java, OCaml, JavaScript, HTML/CSS, SQL, C++
+- **Languages:** Python, Java, OCaml, JavaScript, HTML/CSS, SQL, C
 - **Tools & Frameworks:** Git, VSCode, MongoDB, Node.js, PostGreSQL, Flask
 - **Concepts:** Data Structures & Algorithms, Version Control, Web Development, APIs, Databases
 
@@ -14,13 +14,13 @@ I'm studying Computer Science at Cornell University and I'm passionate about bui
 
 ## Notable Projects
 
-- ** Clue Game (OCaml)**  
+- **Clue Game (OCaml)**  
   Developed an online simulation of the board game Clue, using OCaml, and implemented features including player logic, moving around the board, card distribution, and clue sheets.
 
-- ** Table Interpreter (OCaml)**  
+- **Table Interpreter (OCaml)**  
   Built an SQL-like interpreter with support for features such as `project`, `select`, and `join` operations using OCaml.
 
-- ** CollegeConnect**  
+- **CollegeConnect**  
   Created a web application designed to assist students in navigating the college application process using Python, Flask, and PostGreSQL.
 
 ---
@@ -28,7 +28,7 @@ I'm studying Computer Science at Cornell University and I'm passionate about bui
 ## Achievements & Interests
 
 - Earned the **GIAC Foundational Cybersecurity Technologies (GFACT)** certification; currently exploring more about cybersecurity.
-- Passionate about web development and a member of **Cornell's Webdev Club**.
+- Passionate about web development and a member of **Cornell's Webdev Club** and **Women in Computing at Cornell**.
 
 ---
 
