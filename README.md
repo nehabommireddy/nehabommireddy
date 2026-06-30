@@ -1,42 +1,88 @@
-# Hi, I'm Neha Bommireddy!
 
-I'm studying Computer Science at Cornell University and I'm passionate about building impactful software and using technology to solve real-world problems. I'm especially interested in creating inclusive, accessible tools and am currently exploring open source projects and learning how to work with APIs to contribute to collaborative tech communities.
+# Neha Bommireddy
+
+Computer Science @ Cornell University · Software Engineering · AI
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neha-bommireddy-aa15282a8/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flatlogo=gmail&logoColor=white)](mailto:nehabommireddy@gmail.com)
+
+---
+
+## About
+
+I'm a Computer Science student at Cornell University with experience building backend systems, AI-powered developer tools, and full-stack applications. My interests include backend engineering, distributed systems, machine learning, and designing software that solves practical problems.
 
 ---
 
 ## Technical Skills
 
-- **Languages:** Python, Java, OCaml, JavaScript, HTML/CSS, SQL, C
-- **Tools & Frameworks:** Git, VSCode, MongoDB, Node.js, PostGreSQL, Flask
-- **Concepts:** Data Structures & Algorithms, Version Control, Web Development, APIs, Databases
+| Category | Technologies |
+|----------|--------------|
+| **Languages** | Python, Java, JavaScript, OCaml, C, SQL |
+| **Backend** | Spring Boot, FastAPI, Flask, Node.js, REST APIs |
+| **Frontend** | React, React Native, Next.js, HTML/CSS |
+| **Databases** | PostgreSQL, TimescaleDB, MongoDB, H2 |
+| **Tools & Infrastructure** | Docker, Git, GitHub Actions, Maven, JIRA, Figma |
+| **AI & Machine Learning** | LLM Integration, NLP, Classification, Clustering, Regression (OLS, Tobit, MLE) |
 
 ---
 
-## Notable Projects
+## Featured Projects
 
-- **Clue Game (OCaml)**  
-  Developed an online simulation of the board game Clue, using OCaml, and implemented features including player logic, moving around the board, card distribution, and clue sheets.
+### Task Manager AI
+AI-powered REST API for task management built with Java, Spring Boot, H2, and the Gemini API. Supports CRUD operations, validation, and AI-generated productivity suggestions.
 
-- **Table Interpreter (OCaml)**  
-  Built an SQL-like interpreter with support for features such as `project`, `select`, and `join` operations using OCaml.
+**Technologies:** Java, Spring Boot, REST APIs, H2 Database, Maven, Gemini API
 
-- **CollegeConnect**  
-  Created a web application designed to assist students in navigating the college application process using Python, Flask, and PostGreSQL.
+**Repository:** [Task Manager AI](LINK)
 
 ---
 
-## Achievements & Interests
+### CollegeConnect
+A full-stack web application that helps students organize and compare colleges throughout the application process with user authentication and persistent data storage.
 
-- Earned the **GIAC Foundational Cybersecurity Technologies (GFACT)** certification; currently exploring more about cybersecurity.
-- Passionate about web development and a member of **Cornell's Webdev Club** and **Women in Computing at Cornell**.
+**Technologies:** Python, Flask, PostgreSQL, HTML/CSS
+
+**Repository:** [CollegeConnect](LINK)
 
 ---
 
-**Let's connect!**  
-Feel free to reach out if you'd like to collaborate, ask questions, or learn more about me!
+### Unit Test Generator
+AI-assisted unit testing tool that automatically generates test cases for C/C++ programs, helping improve testing efficiency and developer productivity.
 
-- Email: nehabommireddy@gmail.com  
-- LinkedIn: [Neha Bommireddy](https://www.linkedin.com/in/neha-bommireddy-aa15282a8/)
+**Technologies:** Python, AI, C/C++, Automated Testing
+
+**Repository:** [Unit Test Generator](LINK)
+
+---
+
+### CyberSafe
+Chrome extension designed to help users identify phishing attempts and practice safe browsing habits through real-time website analysis.
+
+**Technologies:** JavaScript, HTML/CSS, Chrome Extension APIs
+
+**Repository:** [CyberSafe](LINK)
+
+---
+
+### Clue Game
+A complete implementation of the board game Clue built in OCaml featuring player movement, game logic, clue sheets, and card management.
+
+**Technologies:** OCaml
+
+**Repository:** [Clue Game](LINK)
+
+---
+
+## Current Work
+
+- Software Engineering Intern at Enhansys.ai, building data pipelines and backend services for energy market analytics using Python, FastAPI, Docker, and TimescaleDB.
+- Tech Fellow at CodePath, teaching data structures and algorithms while mentoring students through technical interview preparation.
+- Full-Stack Developer for Cornell Engineers Without Borders, contributing to a React Native application and optimizing PostgreSQL database performance.
+
+---
+
+Thank you for taking the time to explore my work. If you'd like to connect or discuss opportunities, feel free to reach out via LinkedIn or email.
 
 <!--
 **nehabommireddy/nehabommireddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
